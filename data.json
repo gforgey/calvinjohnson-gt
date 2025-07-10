@@ -1,0 +1,56 @@
+[
+  {
+    "year": 2007,
+    "receiving_yards": 756,
+    "touchdowns": 8,
+    "receptions": 48
+  },
+  {
+    "year": 2008,
+    "receiving_yards": 1334,
+    "touchdowns": 12,
+    "receptions": 73
+  },
+  {
+    "year": 2009,
+    "receiving_yards": 1536,
+    "touchdowns": 7,
+    "receptions": 84
+  },
+  {
+    "year": 2010,
+    "receiving_yards": 1539,
+    "touchdowns": 11,
+    "receptions": 84
+  },
+  {
+    "year": 2011,
+    "receiving_yards": 1964,
+    "touchdowns": 5,
+    "receptions": 122
+  },
+  {
+    "year": 2012,
+    "receiving_yards": 1444,
+    "touchdowns": 12,
+    "receptions": 122
+  },
+  {
+    "year": 2013,
+    "receiving_yards": 1456,
+    "touchdowns": 9,
+    "receptions": 84
+  },
+  {
+    "year": 2014,
+    "receiving_yards": 1685,
+    "touchdowns": 8,
+    "receptions": 111
+  },
+  {
+    "year": 2015,
+    "receiving_yards": 1663,
+    "touchdowns": 12,
+    "receptions": 122
+  }
+]
