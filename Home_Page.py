@@ -1,8 +1,6 @@
 # Home_Page.py
+import streamlit as st
 
-import streamlit as st  # ← Make sure this is the very first import
-
-# Configure the page
 st.set_page_config(
     page_title="Calvin Johnson: A GT Legend",
     page_icon="🐝",
